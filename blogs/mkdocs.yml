@@ -1,0 +1,6 @@
+site_name: Daniel's Blogs
+site_url: https://www.baidu.com/
+nav:
+  - Home: index.md
+  - About: about.md
+# theme: readthedocs
